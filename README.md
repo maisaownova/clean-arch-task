@@ -5,7 +5,7 @@ The goal was to implement a small task management domain using **Clean Architect
 
 ---
 
-## 🚀 My Progress
+## My Progress
 
 ### 1. Setting up the project
 - Cloned the starter repository.
